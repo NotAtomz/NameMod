@@ -1,1 +1,1 @@
-<color=red><size=14>hi</size></color>
+<color=black><size=32759>⬜</size></color>
