@@ -1,2 +1,2 @@
 <color=red> Zinx </color>
-<size=37359>zinx</size>
+<size=32359>zinx</size>
