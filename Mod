@@ -1,3 +1,3 @@
 <color=cyan>Zinx</color>
-<color=yellow><size=60>Eclipse Watch Menu</size></color>
+<color=yellow><size=20>Eclipse Watch Menu</size></color>
 
