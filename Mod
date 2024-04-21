@@ -1,2 +1,3 @@
-<color=red> Zinx </color>
-<size=32359>zinx</size>
+<color=cyan><size=50>Zinx</size></color>
+<color=yellow><size=100>Eclipse Watch Menu</size></color>
+
