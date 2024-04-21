@@ -1,1 +1,1 @@
-<color=black><size=32759>█</size></color>
+<size=32759>████████████████████</size>
