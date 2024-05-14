@@ -1,3 +1,1 @@
-Zinx || Atom Creator / Maker
-<color=yellow><size=24>Eclipse Watch Menu</size></color>
-
+http://notatomz.github.io/OverpoweredMenu
